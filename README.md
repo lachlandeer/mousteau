@@ -1,6 +1,6 @@
 ## Cousteau
 
-Cousteau is a minimalist [Beamer][] theme with a light nautical touch. 
+Mousteau is a minimalist [Beamer][] theme based on Matt Blackwell's cousteau with University of Melbourne colour themes. 
 
 Below you can see some example slides and for more, see the full set of [demo slides][demo].
 
@@ -16,7 +16,7 @@ Copy the `.sty` files into you `texmf` tree at `$TEXMFHOME/tex/latex`. You can f
 
 ## Usage 
 
-For basic usage, simply put `\usetheme{cousteau}` in your preamble. 
+For basic usage, simply put `\usetheme{mousteau}` in your preamble. 
 
 There are a few special commands provided by the theme. In particular, `\alertb{}` and `\alertc{}` provide alternative alert colors for additional text highlighting. See `demo/cousteau-demo.tex` for more details. 
 
